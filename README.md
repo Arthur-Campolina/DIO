@@ -1,2 +1,2 @@
 # DIO
-Projetos e estudos realizado através da Digital Innovation One.
+Projetos e estudos realizados através da Digital Innovation One.
