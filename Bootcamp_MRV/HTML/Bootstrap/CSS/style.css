@@ -1,0 +1,37 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: rgb(182, 182, 221);
+}
+
+.quem-somos {
+    background-color: rgb(207, 207, 248);
+    color: black;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+#servicos p {
+    text-align: justify;
+}
+
+#parceiros img {
+    border-radius: 15px;
+}
+
+.parceiros {
+    background-color: rgb(208, 240, 240);
+    color: black;
+}
+
+.bg-footer {
+    background-color: rgba(0, 0, 0, 0.698);
+    border-radius: 15px;
+    color: white;
+    padding-top: 50px;
+}
+
